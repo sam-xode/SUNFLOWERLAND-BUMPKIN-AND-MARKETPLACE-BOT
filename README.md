@@ -3,7 +3,7 @@
 # 🌻 Sunflower Land Discord Bot Guide 🌻
 
 <a href="https://discord.gg/yG6TGC2W">
-    <img src="https://img.shields.io/badge/Join%20Our-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Use this tools">
+    <img src="https://img.shields.io/badge/Join%20Our-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=green" alt="Use this tools">
 </a>
 
 ![Sunflower Land Banner](https://private-user-images.githubusercontent.com/11745561/352435770-4d08da2c-a5a5-4131-acbb-b9b41132f6df.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMzOTM5NDYsIm5iZiI6MTc0MzM5MzY0NiwicGF0aCI6Ii8xMTc0NTU2MS8zNTI0MzU3NzAtNGQwOGRhMmMtYTVhNS00MTMxLWFjYmItYjliNDExMzJmNmRmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMxVDA0MDA0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwNzZhNzhmMWQ2NDk4NGRmNmIzZGQwZDM3YWMwMmEwZmQwZDdjNzA4YzRjZWIxYzU5OWVlNmUwNDk0OTFmMmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dpTcLjKRpC0AcgDrFM5aagQtP0Azb3ALoRe1ZFgkb2w)
