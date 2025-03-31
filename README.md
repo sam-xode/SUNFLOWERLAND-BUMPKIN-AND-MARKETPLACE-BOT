@@ -10,13 +10,6 @@
 
 Welcome to the **Sunflower Land Discord Bot**! This comprehensive guide will help you make the most of all the bot's features and commands.
 
-## 📋 Table of Contents
-- [Available Commands](#available-commands)
-- [Command Details](#command-details)
-- [Tips & Tricks](#tips--tricks)
-- [Troubleshooting](#troubleshooting)
-- [Support & Donations](#support--donations)
-- [Updates & Notifications](#updates--notifications)
 
 ## ⚙️ Available Commands
 
@@ -32,7 +25,7 @@ Welcome to the **Sunflower Land Discord Bot**! This comprehensive guide will hel
 
 Check detailed information about any Sunflower Land farm by providing its Farm ID.
 
-**Usage:** `/check_bumpkin farm_id:73795`
+**Usage:** `/check_bumpkin farm_id:873735225663547`
 
 After using this command, you'll receive an interactive response with buttons to navigate through different sections:
 
