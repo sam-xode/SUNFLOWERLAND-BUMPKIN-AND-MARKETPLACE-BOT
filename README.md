@@ -78,6 +78,11 @@ The calculator will show:
 - **Inventory Management**: Use the inventory section to plan your farming strategy
 - **Resource Prioritization**: Focus on resources showing upward price trends
 
+## 🛡️ Privacy & Security
+
+- We only store your farm ID 
+- No personal information is collected
+- Your data is never shared with third parties
 
 ## 💖 Support & Donations
 
@@ -86,7 +91,11 @@ The Sunflower Land Bot is maintained by SamXode and runs 24/7 thanks to your sup
 If you find this bot useful for your Sunflower Land journey, please consider supporting its development:
 "```0xaf617Ad14ca1254d68A1d7f3751b58405cA74142```"
 
-For help or to report issues, contact @sam_xode on Twitter or join our support server.
+## 🆘 Need Help?
+
+- Contact the developer:  **Twitter**: [@Sam_xode](https://twitter.com/Sam_xode)
 
 
 Thank you for using the Sunflower Land Bot! Happy farming and may your harvests be plentiful! 🌻 
+
+*Made with 💖 for the Sunflower Land community* 
